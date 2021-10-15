@@ -1,0 +1,14 @@
+div{
+	animation: name duration timing-function delay iteration-count 
+  		direction fill-mode;
+}
+
+/* 
+name: name of the animation
+duration: amount of time it takes ex: 2s
+timing-function: ex: linear, ease, etc.
+delay: amount of time to delay from it starting
+iteration-count: how many times to play the animation, ex: initial
+direction: ex: forwards, backwards, alternate, alternate-reverse
+fill-mode: ex: none, forwards, backwards, both
+*/
